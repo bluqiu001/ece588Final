@@ -9,3 +9,7 @@ classification_model.h5
 model_checkpoints/
 checkpoints/
 local_means_generated/
+local_medians_generated/
+test_images_original/
+test_images2/
+histogram_generated/
