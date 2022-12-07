@@ -9,3 +9,4 @@ classification_model.h5
 model_checkpoints/
 checkpoints/
 local_means_generated/
+non_local_means_generated/
