@@ -13,3 +13,4 @@ local_medians_generated/
 test_images_original/
 test_images2/
 histogram_generated/
+gaussian/
