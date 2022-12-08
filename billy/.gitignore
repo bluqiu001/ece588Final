@@ -14,3 +14,4 @@ test_images_original/
 test_images2/
 histogram_generated/
 gaussian/
+non_local_means_generated/
