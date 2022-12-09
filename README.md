@@ -1,4 +1,7 @@
 # CycleGAN and Denoising Techniques To Convert Images into Monet Paintings
+
+Data is stored at this OneDrive (must sign in with Duke netID to access) https://prodduke-my.sharepoint.com/:f:/g/personal/wyl6_duke_edu/Eh1TmpBgJhFKloicwtiWF5sBs8g-EBAKrXidiyBvJE8f4Q?e=z0IaRr
+
 In this project, we provide a TensorFlow implementation of a CycleGAN along with various Python scripts that perform various filters on images including a local means filter, local median filter, non-local means filter, and a histogram equalization.
 
 ### About Our Project
